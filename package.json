@@ -1,0 +1,14 @@
+{
+  "name": "filipinoclub",
+  "version": "1.0.0",
+  "description": "The Official Website for BCA Filipino Club",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kimberley Ni",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
