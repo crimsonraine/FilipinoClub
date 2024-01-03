@@ -1,0 +1,49 @@
+:root {
+    --back-color: #f4edf7;
+    --button-back-color: #dec6ea;
+    --button-fore-color: #543563;
+    --button-hover-back-color: #f5e8fc;
+    --header-back-color: #f4edf7;
+    --header-border-color: #dec6ea;
+    --header-fore-color: #543563;
+    --secondary-fore-color: white;
+    --header-hover-back-color: #e9d2f4;
+    --footer-back-color: #543563;
+    --footer-link-color: white;
+}
+
+.regular {
+    font-family: 'Alice', serif;
+}
+
+.title {
+    font-family: 'Parisienne', cursive;
+    position: absolute;
+}
+
+
+.center {
+    margin: auto;
+    padding: 12px;
+}
+
+.right_align {
+    position: absolute;
+    right: 0;
+    padding-right: 15px;
+}
+
+.secondary-back-color {
+    background-color: #AA3C3C;
+}
+
+.logo {
+    width: 75px;
+    height: 75px;
+    position: relative;
+    transform: translateY(-25%);
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    color: #664178;
+}

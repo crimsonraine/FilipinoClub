@@ -1,0 +1,19 @@
+footer {
+    margin-top: 50px;
+}
+
+footer h5 {
+    font-size: 16px;
+    color: #8a679b;
+}
+
+footer a {
+    margin-left: 20px;
+    font-size: 16px;
+}
+
+.footer_right_align {
+    position: absolute;
+    right: 0;
+    padding-right: 30px;
+}

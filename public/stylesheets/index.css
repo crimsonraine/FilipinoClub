@@ -1,0 +1,95 @@
+/* 
+filipino club icon colors
+red: aa3c3c
+yellow: ebaf34
+blue: 395293
+offwhite: d6dc38
+*/
+
+:root {
+    --back-color: #eaeffa;
+    --button-back-color: #dec6ea;
+    --button-fore-color: #543563;
+    --button-hover-back-color: #f5e8fc;
+    --footer-back-color: #543563;
+    --footer-link-color: white;
+}
+
+.main_text {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    font-size: 100px;
+    color: #543563;
+    padding: 12px 24px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.main_btn {
+    position: absolute;
+    top: 52%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    font-size: 20px;
+    padding: 12px 24px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+
+.info img {
+    margin-left: 30px;
+}
+
+img {
+    display: block;
+    padding: 30px;
+    width: 600px;
+    height: auto;
+    filter: drop-shadow(5px 5px #d98d8d);
+}
+
+h1 {
+    font-size: 65px;
+    color: #543563;
+    padding-top: 125px;
+    padding-left: 50px;
+}
+
+h2 {
+    background-color: #dec6ea;
+    font-size: 40px;
+    color: #543563;
+    margin-top: 30px;
+    margin-left: 50px;
+    margin-right: 65px;
+    margin-bottom: 25px;
+    padding-left: 3px;
+}
+
+h4 {
+    margin-top: 5px;
+    margin-left: 50px;
+}
+
+.purple {
+    color: #543563;
+    font-weight: bold;
+}
+
+p {
+    font-size: 19px;
+    color: #392444;
+    padding-top: 25px;
+    padding-left: 50px;
+}
+
+.main_btn:hover {
+    background-color: #7c618f;
+    color: #ebe0f1;
+    border-color: #220430;
+    color: #543563;
+}
