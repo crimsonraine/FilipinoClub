@@ -1,17 +1,17 @@
 /* 
 filipino club icon colors
-red: aa3c3c
+red: aa3c3c, d77a7a, rgb(85, 5, 5), #dd9595
 yellow: ebaf34
 blue: 395293
 offwhite: d6dc38
 */
 
 :root {
-    --back-color: #eaeffa;
-    --button-back-color: #dec6ea;
-    --button-fore-color: #543563;
-    --button-hover-back-color: #f5e8fc;
-    --footer-back-color: #543563;
+    --back-color: #f4f8ff;
+    --button-back-color: #395293;
+    --button-fore-color: #eaeffa;
+    --button-hover-back-color: #1e2b4d;
+    --footer-back-color: rgb(170, 97, 91);
     --footer-link-color: white;
 }
 
@@ -54,15 +54,15 @@ img {
 
 h1 {
     font-size: 65px;
-    color: #543563;
+    color: #3e518f;
     padding-top: 125px;
     padding-left: 50px;
 }
 
 h2 {
-    background-color: #dec6ea;
+    background-color: #abb4ce;
     font-size: 40px;
-    color: #543563;
+    color: #34498e;
     margin-top: 30px;
     margin-left: 50px;
     margin-right: 65px;
@@ -75,21 +75,21 @@ h4 {
     margin-left: 50px;
 }
 
-.purple {
-    color: #543563;
+.blue {
+    color: #34498e;
     font-weight: bold;
 }
 
 p {
     font-size: 19px;
-    color: #392444;
+    color: #34498e;
     padding-top: 25px;
     padding-left: 50px;
 }
 
 .main_btn:hover {
-    background-color: #7c618f;
-    color: #ebe0f1;
-    border-color: #220430;
-    color: #543563;
+    background-color: #34498e;
+    color: #abb4ce;
+    border-color: #34498e;
+    color: #34498e;
 }
